@@ -1,0 +1,35 @@
+ table{ 
+    width:700px;
+    text-align: center;
+}
+#name{
+    background-color: violet;
+}
+#name:hover{
+    background-color: tomato;
+}
+table,td,th{
+    border:1px solid black;
+    border-collapse: collapse;
+}
+th{
+    background-color: blue;
+    border-radius: 0%;
+}
+th:hover{
+    background-color: red;
+    border-radius: 90%;
+}
+
+td:hover{
+    background-color: turquoise;
+}
+tr:nth-child(even){
+    background-color: greenyellow;
+}
+tr:nth-child(odd){
+    background-color: yellow;
+}
+td,th{
+    padding:5px;
+}

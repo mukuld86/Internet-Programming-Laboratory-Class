@@ -1,0 +1,18 @@
+windows.alert           Alert Box
+windows.write           Dialogue Box
+                        Confirmation Dialogue Box
+
+
+variables declaration:      var , let , const
+1. var is used to declare a global variable
+2. let is used to declare local variable
+
+
+ confirm is a function
+
+Prompt Dialogue Box
+prompt()           to take input in front-end
+
+
+print statement in JavaScript
+console.log("Hello World!")             it doesnt print on the webpage...But we can see the printed text by going to inspect

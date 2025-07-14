@@ -1,0 +1,50 @@
+
+*{
+    padding: 0;
+    margin: 0;
+}
+.container{
+    background: url("/Images/back.jpg")no-repeat;
+    height: 100vh;
+    background-size: cover;
+}
+.container nav img{
+    height: 50px;
+    width: 100px;
+    padding: 5px;
+}
+.container nav{
+    display: inline-block;
+    height: 60px;
+    width: 100%;
+}
+.container nav{
+    display: grid;
+    position: fixed;
+    right: 0;
+}
+.container hr{
+    color: wheat;
+}
+.container .content{
+    padding: 5%;
+}
+.container .content h1{
+    color: white;
+    font-size:100px;
+    text-decoration:none;
+}
+.container .content #para{
+    font-size:20px;
+    color: white;
+    text-decoration: none;
+}
+.container .content button{
+    height:60px;
+    width: 180px;
+    font-size: larger;
+    color: whitesmoke;
+    background-color: yellowgreen;
+    border: none;
+    border-radius: 30px;
+}

@@ -1,0 +1,70 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.container #logo{
+    width: 180px;
+    height: 70px;
+    margin-top: 15px;
+    margin-left: 90px;
+}
+.container{
+    background: url("bg1.jpg") no-repeat;
+    height: 100vh;
+    background-size: cover;
+}
+.container nav{
+    position: relative;
+    height: 100px;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.4);
+}
+.container nav ul{
+    display:inline-block;
+    float: right;
+    padding: 20px;
+}
+.container nav ul li{
+    display:inline-block;
+    padding: 10px;
+    zoom:115%;
+    color: white;
+    font-weight:600;
+    text-decoration:solid;
+}
+.container nav ul li a{
+    color: white;
+    text-decoration: none;
+}
+.container nav ul li:hover{
+    zoom: 110%;
+    background-color: red;
+    color: white;
+    border-radius: 5px;
+}
+
+.container .content h1{
+    color:white;
+    align-items: center;
+    font-size: 60px;
+    font-style: normal;
+}
+
+.container .content button{
+    height: 50px;
+    width: 200px;
+    color: white;
+    background-color: red;
+    border: none;
+    border-radius: 25px;
+    font-size: 30px;
+    padding: 4px;
+}
+
+.container .content button:hover{
+    zoom: 110%;
+    color:white;
+    background-color: red;
+    border-radius: 30px;
+    font-size: 30px;
+}

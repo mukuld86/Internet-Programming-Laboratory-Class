@@ -1,0 +1,78 @@
+/*  Group of Selectors
+*/
+ h1{ 
+    color:blue;
+    background-color: tomato;
+    font-weight: 700;
+    border-radius: 10%;
+    border-color: black;
+    margin-left: 40%;
+    margin-right: 40%;
+}
+ 
+/* Descendent Selectors  
+div div p{
+    color:red;
+    background-color:yellow;
+}
+
+div p{
+    color:blue;
+    background-color: tomato;
+}
+
+ Child Selectors
+*/
+ p{
+    color:red;
+    background-color:violet;
+
+}
+div > p{
+    color:blueviolet;
+    font-size:30px;
+}
+#l1{
+    font-size:xx-large;
+    background-color: red;
+    border-radius: 40%;
+}
+#l2{
+    font-size:xx-large;
+    background-color:green;
+    border-radius: 30%;
+}
+#l3{
+    font-size:xx-large;
+    background-color: yellow;
+    border-radius: 50%;
+}
+
+/* Adjacent Siblings combinator   + sign is used
+used on elements having same parent tag and are adjacent to one other */
+/* #div1 + p{ 
+    color:aqua;
+    font-size:30px;
+ # Only applying the style to only one paragraph */
+}
+
+/* General Sibling combinator   ~ sign is used
+applies the style to all sibling elements
+#div1 ~ p{
+    color:aqua;
+    font-size:30px;
+}
+*/
+/* How a link usually looks initially without doing anything */
+a:link{
+    color:black;
+}
+/* Hover is user to control what to show when we have the cursor in the link */
+a:hover{
+    color: cadetblue;
+    background-color:yellow;
+}
+/* Visited for how to show after visiting the webpage */
+a:visited{
+    color:rgb(43,226,46);
+}

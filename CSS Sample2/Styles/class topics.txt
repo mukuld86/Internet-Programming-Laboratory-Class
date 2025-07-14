@@ -1,0 +1,27 @@
+Creating the table
+
+<table>
+    <tr>    Table Row(need to close in order to put data in another row)
+        <th> Table Header1   </th>
+        <th> Table Header2   </th>
+        <th> Table Header3   </th>
+    </tr>
+    <tr>
+        <td> Table Data1   </td>
+        <td> Table Data2   </td>
+        <td> Table Data3   </td>
+    </tr>
+
+
+
+</table>
+
+Styling 
+
+
+border:2px solid black;
+border-collapse:collapse;
+
+
+
+Create a face of a cube.Should look yellow but when hover color should change

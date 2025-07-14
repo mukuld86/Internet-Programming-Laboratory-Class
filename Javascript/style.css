@@ -1,0 +1,23 @@
+div{
+    padding: 30px;
+    margin-bottom: 15px;
+}
+div.container{
+    background-color: aqua;
+    border: 2px solid black;
+    border-radius: 30px;
+    width: 350px;
+}
+
+div.confrm{
+    background-color: yellowgreen;
+    border: 2px solid black;
+    border-radius: 30px;
+    width: 350px;
+}
+div.prompt{
+    background-color: yellow;
+    border: 2px solid black;
+    border-radius: 30px;
+    width: 350px;
+}
