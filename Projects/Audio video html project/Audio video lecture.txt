@@ -1,0 +1,23 @@
+Audio and video tags
+
+
+for audio
+
+<audio controls>  
+<source src="ringtone.mp3" type="audio/mpeg">
+Audio is not played
+</audio>
+
+
+for video 
+
+<video controls height="300" width="200" autoplay muted loop>
+ <source src="video.mp4" type="video/mp4">
+            Video is not played
+       
+  </video>
+
+"""
+video attributes= autoplay,mute,loop,poster="url"
+Autoplay won't work without muted
+"""

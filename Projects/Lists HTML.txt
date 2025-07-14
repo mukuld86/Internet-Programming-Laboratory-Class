@@ -1,0 +1,35 @@
+Lists
+
+1.Unordered Lists
+2. Ordered lists
+3. Defination list
+
+
+Unordered Lists
+<ul type="square">
+<li>   </li>
+</ul>
+Types=(Square,circle,disc)
+
+
+
+Ordered Lists
+<ol>
+<li>    </li>
+</ol>
+Types={Numbers,alphabets,romal numerals(A,a,i,I,1)}
+
+Definiton lists
+
+<dl>
+	<dt> </dt>
+	<dd> </dd>
+</dl>
+
+
+<div> and <span> tags can be used in nested form
+<div> </div>
+Sorts text from the next line
+
+<span> </span>
+Sorts text from the same line

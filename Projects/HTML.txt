@@ -1,0 +1,27 @@
+<pre> </pre> (preserve formatting)For using the spaces inside a paragraph or etween the content of the webpage
+<u> </u> underline tag
+<style> works anywhere </style>
+<strike> </strike> text will be displayed with a line cutting the text ( Means used to display if something is not available or not permitted)
+<sub> </sub> Subscript 
+<sup> </sup> Superscript
+
+Attributes
+
+1. style="prop:value;"
+2. id="header1" (id must be different for different elements)
+3. class="text--etc"
+4. title="something" (for Naming)
+
+
+<ins> </ins> to insert something
+<del> </del> to delete something
+<big> </big> to make text big
+<small> </small> to make text smaller
+
+use "Ctrl"+"/" to write a comment
+
+Use <mark> </mark>
+Use <bdo dir=rtl> Hello </bdo>
+
+Homework
+<marquee> (to make font move in motion horizontally or vertically)

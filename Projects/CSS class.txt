@@ -1,0 +1,17 @@
+Always use # to select paragraph id
+
+
+Selectors- element,class,id,universal
+. for class
+# for id
+* for universal
+
+Priority - id > class > type > universal
+
+combinators
+
+
+style we can use
+color
+background-color
+border

@@ -1,0 +1,14 @@
+<form action="Script URL" method="GET|POST" > 
+    form elements like input,textarea, etc.
+</form>
+
+HTML FOrm Controls
+1. Text Input Controls  
+    a.Single-line input Controls
+    b.Password input  Controls
+    c. Multi-line text Input Controls
+
+
+Attributes- type,name,size,value,maxlength
+
+
